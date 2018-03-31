@@ -1,0 +1,4 @@
+org\anirudh\redquark\factory\SolrServerFactory.class
+org\anirudh\redquark\model\Item.class
+org\anirudh\redquark\dao\SolrDAO.class
+org\anirudh\redquark\SolrJStart.class
